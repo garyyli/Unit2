@@ -10,14 +10,14 @@ name = input('Enter your name: ')
 if number == 1:
     print('You lack the presence of friends')
 
-if number == 2:
+elif number == 2:
     print('You LITERALLY have no friends')
 
-if number == 3:
+elif number == 3:
     print('You have ZERO friends')
 
-if number == 4:
+elif number == 4:
     print('You have no companions')
 
-if number == 5:
+elif number == 5:
     print('You actually have NADA AMIGOS')
