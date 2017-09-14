@@ -8,10 +8,10 @@ number = randint(1,5)
 name = input('Enter your name: ')
 
 if number == 1:
-    print('You have no friends')
+    print('You lack the presence of friends')
 
 if number == 2:
-    print('You literally have no friends')
+    print('You LITERALLY have no friends')
 
 if number == 3:
     print('You have ZERO friends')
