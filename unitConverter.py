@@ -25,3 +25,5 @@ while True:
     elif number==4:
         celsius = float(input('Enter Degrees in Celsius: '))
         print(celsius, 'is', (celsius*1.8)+32, 'degrees in Fahrenheit')
+    elif number == 5:
+        break
