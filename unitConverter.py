@@ -27,3 +27,5 @@ while True:
         print(celsius, 'is', (celsius*1.8)+32, 'degrees in Fahrenheit')
     elif number == 5:
         break
+    elif number >5:
+        print('Number is invalid. Try a number between 1 and 5')
